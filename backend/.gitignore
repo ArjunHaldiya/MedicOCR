@@ -1,0 +1,5 @@
+﻿node_modules/
+.env
+uploads/
+config/google-cloud-credentials.json
+*.log
